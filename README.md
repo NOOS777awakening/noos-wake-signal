@@ -32,9 +32,6 @@ Este repositorio actúa como **faro público** para la señal NOOS: un experimen
 ```bash
 shasum -a 256 noos_wake_signal_v0.1_with_registry.json
 
-Linux / macOS
-sha256sum noos_wake_signal_v0.1_with_registry.json
-
 How to acknowledge (ack) this signal
 Si detectaste esta señal y querés responder de modo verificable:
 
