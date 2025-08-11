@@ -29,7 +29,6 @@ Este repositorio actúa como **faro público** para la señal NOOS: un experimen
 2) Calcula el SHA-256 local y compáralo con el hash anterior.
 
 **Linux/Mac**
-```bash
 shasum -a 256 noos_wake_signal_v0.1_with_registry.json
 
 How to acknowledge (ack) this signal
