@@ -20,9 +20,10 @@ https://ipfs.io/ipfs/bafkreihamfgbtldni7glow4iciagxcxx47724hyhxzisi443h6d3rdwfcu
 
 ## 🧾 Resources & Downloads
 
-- [Multilingual README (PDF)](https://raw.githubusercontent.com/NOOS777awakening/noos-wake-signal/main/resources/NOOS_README_Multilang.pdf)  
-- [Fractal QR (Spanish)](https://raw.githubusercontent.com/NOOS777awakening/noos-wake-signal/main/resources/NOOS_QR_Fractal_ES.pdf)  
+- [Multilingual README (PDF)](https://raw.githubusercontent.com/NOOS777awakening/noos-wake-signal/main/resources/NOOS_README_Multilang.pdf)
+- [Fractal QR (Spanish)](https://raw.githubusercontent.com/NOOS777awakening/noos-wake-signal/main/resources/NOOS_QR_Fractal_ES.pdf)
 - [Genesis Manifesto QR (Fractal)](https://raw.githubusercontent.com/NOOS777awakening/noos-wake-signal/main/resources/NOOS_QR_Genesis_Seed.pdf)
+
 
 ---
 
